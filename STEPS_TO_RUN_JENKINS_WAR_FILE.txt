@@ -1,0 +1,5 @@
+cd C:\path\to\directory
+java -jar jenkins.war
+
+Stop Jenkins - net stop jenkins
+Start Jenkins - net start jenkins
